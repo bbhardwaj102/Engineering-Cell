@@ -8,6 +8,4 @@ It is a website for organizing job fairs in collaboration with well reputed comp
 website is to provide jobs easily to fresh graduates.
 
 Technologies Used - 
-front-end : Bootstrap, JavaScript, Ajax
-back-end : Spring MVC
-database : Postgresql
+front-end : Bootstrap, JavaScript, Ajax | back-end : Spring MVC | database : Postgresql
