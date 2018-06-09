@@ -1,0 +1,70 @@
+<html>
+<body>
+<p style="text-align: left;"><strong>Hello {fullname}</strong></p>
+<table>
+<tr>
+<td style = "width:200px;"><h4>Your Personal Details</h4></td>
+<td style = "width:200px;"></td>
+<td style = "width:200px;"><h4>Payment Details</h4></td>
+<br>
+</tr>
+<tr>
+<td style = "width:200px;">Name</td>
+<td style = "width:200px;"><strong>{fullname}</strong></td>
+<td style = "width:200px;">Bill Amount</td>
+<td style = "width:200px;"><strong>{billAmount}</strong></td>
+<br>
+</tr>
+<tr>
+<td style = "width:200px;">Address</td>
+<td style = "width:200px;"><strong>{address}</strong></td>
+<td style = "width:200px;">Bill Date</td>
+<td style = "width:200px;"><strong>{billDate}</strong></td>
+<br>
+</tr>
+<tr>
+<td style = "width:200px;">Preferred City</td>
+<td style = "width:200px;"><strong>{preCity}</strong></td>
+<td style = "width:200px;">Payment Status</td>
+<td style = "width:200px;"><strong>{payStatus}</strong></td>
+<br>
+</tr>
+<tr>
+<td style = "width:200px;"></td>
+<td style = "width:200px;"></td>
+<td style = "width:200px;">Booking Id</td>
+<td style = "width:200px;"><strong>{bookingId}</strong></td>
+</tr>
+
+<tr>
+<td style = "width:200px;"></td>
+<td style = "width:200px;"></td>
+<td style = "width:200px;"><h4>Fair Details</h4></td>
+<td></td>
+</tr>
+<tr>
+<td style = "width:200px;">Contact No.</td>
+<td style = "width:200px;"><strong>{contact}</strong></td>
+<td style = "width:200px;">College</td>
+<td style = "width:200px;"><strong>{collegeFair}</strong></td>
+<br>
+</tr>
+<tr>
+<td style = "width:200px;">Email</td>
+<td style = "width:200px;"><strong>{email}</strong></td>
+<td style = "width:200px;">Address</td>
+<td style = "width:200px;"><strong>{addressFair}</strong></td>
+<br>
+</tr>
+<tr>
+<td style = "width:200px;">College</td>
+<td style = "width:200px;"><strong>{college}</strong></td>
+<td style = "width:200px;">Date of Fair</td>
+<td style = "width:200px;"><strong>{dateFair}</strong></td>
+<br>
+</tr>
+</table>
+<p style="text-align: left;"><strong>Your registration id is: {regId}</strong></p>
+<p style="text-align: left;"><strong><a title="Kindly use this registration id for all further processes."</a></strong></p>
+</body>
+</html>
